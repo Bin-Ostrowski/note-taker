@@ -21,6 +21,14 @@ router.post('/notes', (req, res)=>{
 router.delete('/notes/:id', (req, res) => {
     const params = [req.params.id];
     console.log(params);
+
+    //read db file
+    // readFile('./db/db.json').then((data)=> res.json(data))
+    // console.log(data);
+
+    //filter to find id
+
+    //rewrite the notes to the db.json file.
 });
 
 module.exports = router;
