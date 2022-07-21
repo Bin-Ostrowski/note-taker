@@ -1,6 +1,6 @@
 const router = require('express').Router()
 const { readFile, appendToJson } =  require('../utils')
-var uniqid = require('uniqid');
+let uniqid = require("uuid");
 
 
 // GET all notes
