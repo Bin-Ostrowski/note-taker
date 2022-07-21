@@ -8,11 +8,8 @@
   - [Usage](#usage)
   - [Questions](#questions)
   
-  ## Installation
-  visit Heroku link: here
-  
   ## Usage
-  visit Heroku link: here
+  visit Heroku link: https://infinite-sands-67369.herokuapp.com/
   
   ## Questions
   GitHub: [Bin-Ostrowski](https://github.com/Bin-Ostrowski)
